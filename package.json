@@ -1,0 +1,24 @@
+{
+  "name": "udemy-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artembert/TS-Udemy-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artembert/TS-Udemy-Course/issues"
+  },
+  "homepage": "https://github.com/artembert/TS-Udemy-Course#readme"
+}
